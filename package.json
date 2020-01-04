@@ -1,0 +1,27 @@
+{
+  "name": "create-gitignore",
+  "version": "0.1.0",
+  "description": "create .gitignore file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluexiaowei/create-gitignore.git"
+  },
+  "keywords": [
+    "gitignore"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluexiaowei/create-gitignore/issues"
+  },
+  "homepage": "https://github.com/bluexiaowei/create-gitignore#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "inquirer": "^7.0.1",
+    "inquirer-autocomplete-prompt": "^1.0.1"
+  }
+}
